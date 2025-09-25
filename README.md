@@ -1,4 +1,4 @@
-# Drafts werden in einzelnen Repository hochgeladen!
+# Drafts werden in einzelnen Repositories hochgeladen!
 
 ## Namenskonvention:
 
